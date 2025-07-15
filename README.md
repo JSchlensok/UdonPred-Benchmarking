@@ -1,3 +1,6 @@
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.15914315.svg)](https://doi.org/10.5281/zenodo.15914315)
+
+
 This repository contains the code used to produce data and figures for [UdonPred](https://github.com/JSchlensok/udonpred).
 
 Please note that it is still under active development.
