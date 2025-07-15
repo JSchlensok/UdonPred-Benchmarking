@@ -1,7 +1,9 @@
-# Project-specific directories
+# Project-specific stuff
 data/
 methods/
 predictions/
+data.zip
+predictions.zip
 
 # Byte-compiled / optimized / DLL files
 __pycache__/
