@@ -1,0 +1,24 @@
+[project]
+name = "udonpred-benchmarking"
+version = "0.1.0"
+description = "Benchmarking code for UdonPred"
+readme = "README.md"
+authors = [
+    { name = "Julius Schlensok" },
+    { name = "David Wagemann" }
+]
+dependencies = [
+    "biopython ~= 1.85",
+    "ipykernel>=6.29.5",
+    "matplotlib ~= 3.10.3",
+    "nbformat ~= 5.10.4",
+    "pandas ~= 2.2.3",
+    "plotly ~= 6.1.2",
+    "polars ~= 1.29.0",
+    "pyarrow ~= 20.0.0",
+    "scikit-learn ~= 1.6.1",
+    "seaborn ~= 0.13.2",
+]
+
+[tool.uv]
+package = true

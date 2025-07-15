@@ -1,0 +1,11 @@
+from pathlib import Path
+
+PROJECT_DIR = Path(__file__).parent.parent.parent
+DATA_DIR = PROJECT_DIR / "data"
+PLOT_DIR = PROJECT_DIR / "plots"
+
+ALPHAFOLD_DISORDER_THRESHOLD = .312
+FLDPNN_THRESHOLD = .505
+PUNCH2_THRESHOLD = .39
+SETH_THRESHOLD = .398
+TRIZOD_THRESHOLD = .4
