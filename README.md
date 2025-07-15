@@ -1,5 +1,7 @@
 This repository contains the code used to produce data and figures for [UdonPred](https://github.com/JSchlensok/udonpred).
 
+Please note that it is still under active development.
+
 **Getting started**
 1. Clone repository
 2. `uv venv && uv sync`
